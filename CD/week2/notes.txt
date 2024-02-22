@@ -1,0 +1,7 @@
+type this in the terminal
+
+> lex lexi.l
+> cc lex.yy.c
+> ./a.out
+
+Enjoy!
